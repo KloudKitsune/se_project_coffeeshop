@@ -10,7 +10,8 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Flat BEM file structure
 - A custom form
 - CSS animation and transform
+- Embeded videos
 
 ## Plan on improving the project
 
-Add your ideas here :)
+- Looking into the button and animation features could really improve how people interact with the site. Upgraded hover responses would be a good place to start.
