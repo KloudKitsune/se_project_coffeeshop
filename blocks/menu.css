@@ -3,9 +3,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #fff;
-  background: url(../images/background_menu.svg);
-  background-position: top 50px center;
+  background: #fff url("../images/background_menu.svg") no-repeat center/cover;
 }
 
 .menu__title {
