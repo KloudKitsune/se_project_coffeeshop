@@ -32,6 +32,7 @@
   padding: 20px 0;
   background-color: #1878dc;
   margin-bottom: 32px;
+  cursor: pointer;
 
   /* Font for the button */
   font-family: "Inter", "Arial", sans-serif;
@@ -40,6 +41,11 @@
   font-size: 16px;
   line-height: 20px;
   color: #fff;
+  transition: background-color 0.5s;
+}
+
+.form__button:hover {
+  background-color: #3f96f3;
 }
 
 .form__checkbox {
