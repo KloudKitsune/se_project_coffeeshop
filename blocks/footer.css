@@ -15,20 +15,12 @@
   height: 39px;
 }
 
-.footer__column {
-}
-
 .footer__column-heading {
   margin: 0 0 20px;
-
-  font-family: "Inter";
   font-style: normal;
   font-weight: bold;
   font-size: 16px;
   line-height: 20px;
-}
-
-.footer__social-heading {
 }
 
 .footer__list {
@@ -40,17 +32,12 @@
   gap: 16px;
 }
 
-.footer__list-item {
-}
-
 .footer__social-link {
   color: #fff;
   text-decoration: none;
   display: flex;
   align-items: center;
   transition: opacity 1s;
-
-  font-family: "Inter";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -69,8 +56,6 @@
 
 .footer__copyright {
   margin: 108px 0 0;
-
-  font-family: "Inter";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
